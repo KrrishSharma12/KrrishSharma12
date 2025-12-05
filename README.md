@@ -1,3 +1,13 @@
+<!-- 🌊 Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ef7ff&height=180&section=header&text=Krish%20Sharma&fontSize=50&fontColor=003049&animation=twinkling" />
+</p>
+
+<!-- ✨ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00E7FF&center=true&vCenter=true&width=600&lines=3rd+Year+CSE+Student;MERN+Stack+Developer+%28Beginner%29;Always+Learning+New+Skills;Building+Projects+Every+Day;Not+Perfect+—+Just+Evolving" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Krish Sharma</h1>
 <h3 align="center">
 I'm a 3rd-year CSE student currently learning and building projects using the <strong>MERN Stack</strong>.  
@@ -6,7 +16,7 @@ I enjoy solving problems, exploring new technologies, and becoming better every 
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krrishsharma12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=krrishsharma12&label=Profile%20views&color=00d4ff&style=flat-square" />
 </p>
 
 ---
@@ -19,50 +29,49 @@ I enjoy solving problems, exploring new technologies, and becoming better every 
 ## 🚀 About My Projects
 
 ### 🔹 *GitHub Profile Finder*  
-A tool to search any GitHub user and view their profile, followers, repositories, and more.
+Search any GitHub user and view details like followers, repos, etc.
 
 ### 🔹 *Password Manager (MERN + JWT Auth)*  
-A secure MERN-based app to save, edit, and delete passwords with JWT authentication.
+Secure app to store, edit, and delete passwords.
 
 ### 🔹 *Image Search Engine (Unsplash API)*  
-A frontend app to search and display high-quality images using the Unsplash Developer API.
+Search high-quality images using the Unsplash API.
 
 ### 🔹 *Portfolio Website*  
-A personal portfolio showcasing my skills, projects, and journey as a developer.
+A clean personal portfolio showcasing my skills and projects.
 
 ### 🔹 *Weather App*  
-Displays real-time weather using an external API.
+Shows accurate real-time weather for any city.
 
 ### 🔹 *Signature App*  
-A simple UI tool to draw, clear, and download digital signatures.
+Draw, clear, and download signatures easily.
+
+---
+
+## 🎯 My Goals  
+- Improve MERN stack step-by-step  
+- Build more real-world projects  
+- Learn backend architecture  
+- Practice DSA regularly  
+- Become a confident full-stack developer  
 
 ---
 
 ## 🔗 Connect with me  
 <p align="left">
-<a href="https://linkedin.com/in/krish-sharma-47126b325" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<a href="https://linkedin.com/in/krish-sharma-47126b325" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/krish__sharma" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+<a href="https://www.leetcode.com/krish__sharma" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
 ## 🛠 Languages and Tools  
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,cpp,git&theme=light" />
 </p>
 
 ---
@@ -78,3 +87,20 @@ A simple UI tool to draw, clear, and download digital signatures.
 </p>
 
 ---
+
+## ⚡ GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krrishsharma12&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+## ✨ Quote  
+> *"Not perfect — just evolving."*
+
+---
+
+<!-- 🌊 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ef7ff&height=120&section=footer" />
+</p>
